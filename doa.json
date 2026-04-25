@@ -2,58 +2,25 @@
   {
     "id": 1,
     "judul": "Doa Bapa Kami",
-    "isi": "Bapa kami yang di sorga,
-Dikuduskanlah nama-Mu,
-datanglah Kerajaan-Mu,
-jadilah kehendak-Mu
-di bumi seperti di sorga.  Berikanlah kami pada hari ini
-makanan kami yang secukupnya
-dan ampunilah kami akan kesalahan kami,
-seperti kami juga mengampuni
-orang yang bersalah kepada kami;
-dan janganlah membawa kami ke dalam pencobaan,
-tetapi lepaskanlah kami dari pada yang jahat.  [Karena Engkaulah yang empunya Kerajaan
-dan kuasa dan kemuliaan sampai selama-lamanya. Amin]",
+    "isi": "Bapa kami yang di surga,\nDikuduskanlah nama-Mu,\ndatanglah Kerajaan-Mu,\njadilah kehendak-Mu di bumi seperti di surga.\nBerikanlah kami pada hari ini makanan kami yang secukupnya,\ndan ampunilah kami akan kesalahan kami,\nseperti kami juga mengampuni orang yang bersalah kepada kami.\nDan janganlah membawa kami ke dalam pencobaan,\ntetapi lepaskanlah kami dari yang jahat.\nAmin.",
     "kategori": "Dasar"
   },
   {
     "id": 2,
     "judul": "Salam Maria",
-    "isi": "Salam Maria, penuh rahmat, Tuhan sertamu,
-terpujilah engkau di antara wanita,
-dan terpujilah buah tubuhmu, Yesus.  Santa Maria, bunda Allah,
-doakanlah kami yang berdosa ini,
-sekarang dan waktu kami mati. Amin.",
+    "isi": "Salam Maria, penuh rahmat,\nTuhan sertamu.\nTerpujilah engkau di antara wanita,\ndan terpujilah buah tubuhmu, Yesus.\nSanta Maria, Bunda Allah,\ndoakanlah kami yang berdosa ini,\nsekarang dan waktu kami mati.\nAmin.",
     "kategori": "Maria"
   },
   {
     "id": 3,
-    "judul": "Doa Makan",
-    "isi": "Ya Allah Bapa yang Mahamurah,
-kami bersyukur atas rezeki yang Engkau berikan.
-Berkatilah makanan dan minuman ini,
-supaya menjadi kekuatan bagi kami
-untuk mengabdi kepada-Mu dan sesama.
-Demi Kristus, Tuhan dan pengantara kami. Amin.Versi singkat:
-Berkatilah kami, ya Tuhan, dan makanan ini yang akan kami santap,
-yang kami terima dari kemurahan-Mu,
-dengan pengantaraan Kristus, Tuhan kami. Amin.",
+    "judul": "Doa Sebelum Makan",
+    "isi": "Tuhan, terima kasih atas makanan ini.\nBerkatilah kami yang akan menikmatinya.\nSemoga makanan ini menjadi kekuatan bagi tubuh kami.\nAmin.",
     "kategori": "Syukur"
   },
   {
     "id": 4,
-    "judul": "Doa Tidur",
-    "isi": "Ya Allah Bapaku,
-aku bersyukur kepada-Mu karena Engkau telah menjagaku sepanjang hari ini.
-Ampunilah segala dosa dan kesalahan yang telah kulakukan hari ini,
-baik dalam pikiran, perkataan, maupun perbuatan.  Kuserahkan tubuh dan jiwaku ke dalam tangan-Mu.
-Lindungilah aku sepanjang malam ini,
-jauhkanlah aku dari segala bahaya dan godaan yang jahat.
-Semoga aku dapat beristirahat dengan tenang,
-dan bangun esok pagi dengan segar untuk memuliakan nama-Mu.  Santa Maria, Bunda Allah,
-Malaikat Pelindungku,
-doakanlah aku. Amin.Kemuliaan kepada Bapa dan Putra dan Roh Kudus,
-seperti pada permulaan, sekarang, selalu, dan sepanjang segala abad. Amin.",
+    "judul": "Doa Sebelum Tidur",
+    "isi": "Tuhan, pada malam hari ini aku bersyukur atas penyertaan-Mu.\nAmpuni segala kesalahan yang telah aku perbuat hari ini.\nLindungi aku sepanjang malam dan bangunkan aku esok hari dengan sehat.\nAmin.",
     "kategori": "Harian"
   }
 ]
